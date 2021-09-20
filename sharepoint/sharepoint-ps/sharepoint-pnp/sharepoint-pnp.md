@@ -8,6 +8,9 @@ ms.reviewer:
 ---
 # PnP.PowerShell
 
+## Module Installation
+Requires the PnP.Powershell module. Information on installing this module: https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps
+
 ## Description
 
 The following cmdlet references are for PnP PowerShell
